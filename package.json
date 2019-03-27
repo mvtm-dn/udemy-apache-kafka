@@ -1,0 +1,29 @@
+{
+  "name": "udemy-apache-kafka",
+  "version": "0.1.0",
+  "description": "NodeJS Apache kafka examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvtm-dn/udemy-apache-kafka.git"
+  },
+  "keywords": [
+    "apache",
+    "kafka",
+    "examples",
+    "udemy",
+    "cources"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvtm-dn/udemy-apache-kafka/issues"
+  },
+  "homepage": "https://github.com/mvtm-dn/udemy-apache-kafka#readme",
+  "dependencies": {
+    "kafka-node": "^4.0.3"
+  }
+}
